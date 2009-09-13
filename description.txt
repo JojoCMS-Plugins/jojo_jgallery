@@ -1,0 +1,1 @@
+A simple jQuery based inline image gallery. Displays a main image and a list of thumbnails which update the main image on clicking. Can be styled with CSS.

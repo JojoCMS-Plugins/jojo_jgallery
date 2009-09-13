@@ -1,0 +1,43 @@
+#jgallery-large {
+	width: 460px;
+	min-height: 200px;
+	background: url(../images/ajax-loader.gif) center no-repeat ;
+}
+
+#jgallery-large img {
+	max-width: 450px;
+	max-height: 600px;
+	border: 5px solid #fff;
+}
+
+#jgallery-thumbnail-wrap {
+	border: 5px solid #fff;
+    width: 450px;
+	overflow: auto;
+	height: 70px;
+}
+
+#jgallery-thumbnail-wrap ul {
+	margin: 0;
+}
+
+#jgallery-thumbnail {
+	float: left;
+	clear:both;
+	background: #fff;
+}
+
+#jgallery-thumbnail li {
+	float: left;
+	margin: 0;
+	margin-right: 5px;
+	list-style: none;
+}
+#jgallery-thumbnail a {
+	display: block;
+}
+#jgallery-thumbnail img {
+	display: block;
+	width: 79px;
+	max-height: 50px;
+}
